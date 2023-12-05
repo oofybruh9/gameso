@@ -1,3 +1,3 @@
 # gameso
 HTML Games
-Check out our 
+Check out our [Games](/Games.html)
