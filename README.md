@@ -9,4 +9,7 @@ All of these games come from [Scratch](https://scratch.mit.edu)
 [Cat Clicker](https://scratch.mit.edu/projects/927274639) by me.  
 [Fishing Sim.](https://scratch.mit.edu/projects/929644957) by me.  
 [Suika Game](https://scratch.mit.edu/projects/907856686/) by jebiminecraft.  
+
+# Check out [emu page](/emu.html)
+
 ## More Coming Soon!!
