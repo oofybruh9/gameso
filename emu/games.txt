@@ -1,3 +1,16 @@
 NES:
 DigDug.html
 KirboA.html
+SuperBros.html
+SuperBros2.html
+SuperBros3.html
+
+SNES:
+Paint.html
+
+Genesis/Mega Drive
+Sonic1.html
+Sonic2.html
+Sonic3.html
+mikeyeldey95.html
+mikeythealbum.html
