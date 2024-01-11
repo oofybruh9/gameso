@@ -1,0 +1,66 @@
+body {
+  background-color: green;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+ h3 {
+  color: red;
+ }
+
+ .S1 { 
+  width: 300px; 
+  border: 4px solid blue; 
+} 
+ 
+.S1:hover { 
+  opacity: 0.6; 
+}
+
+.S2 {
+  width: 300px;
+  border: 4px solid orange;
+}
+
+.S2:hover {
+  opacity: 0.6;
+}
+
+.m95 {
+  width: 300px;
+  border: 4px solid yellow;
+}
+
+.m95:hover {
+  opacity: 0.6;
+}
+
+.MtA {
+  width: 300px;
+  border: 4px solid lightseagreen;
+}
+
+.MtA:hover {
+  opacity: 0.6;
+}
+
+.S3 {
+  width: 300px;
+  border: 4px solid lightskyblue;
+}
+
+
+.S3:hover {
+  opacity: 0.6;
+}
+
+.S3pK {
+  width: 300px;
+  border: 4px solid gold;
+}
+
+.S3pK:hover {
+  opacity: 0.6;
+}
