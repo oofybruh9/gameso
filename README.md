@@ -13,3 +13,8 @@ All of these games come from [Scratch](https://scratch.mit.edu)
 # Check out [emu page](/emu.html)
 
 ## More Coming Soon!!
+
+## Note
+This is not associated with other gameso projects, profiles, etc.  
+
+Made by oofybruh9
